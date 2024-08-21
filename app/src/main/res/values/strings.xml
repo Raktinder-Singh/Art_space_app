@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="text1">Demon Slayer</string>
+    <string name="text2">Naruto</string>
+    <string name="text3">Jujutsu Kaisen</string>
+    <string name="text4">The Duke of Death</string>
+    <string name="text5">Dragon Ball</string>
+
+
+    <string name="auth1">-Koyoharu Gotouge</string>
+    <string name="auth2">-Masashi Kishimoto</string>
+    <string name="auth3">-Gege Akutami</string>
+    <string name="auth4">-Koharu Inoue</string>
+    <string name="auth5">-Akira Toriyama</string>
+
+</resources>
